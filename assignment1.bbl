@@ -1,0 +1,62 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Antonakakis%
+\ \protect \BOthers {.}}{%
+Antonakakis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+46301}
+\APACinsertmetastar {%
+46301}%
+\begin{APACrefauthors}%
+Antonakakis, M.%
+, April, T.%
+, Bailey, M.%
+, Bernhard, M.%
+, Bursztein, E.%
+, Cochran, J.%
+\BDBL {}Zhou, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding the Mirai Botnet} {Understanding the mirai
+  botnet}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 26th USENIX Security Symposium.}
+  {Proceedings of the 26th usenix security symposium.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/antonakakis}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hilton%
+}{%
+Hilton%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Dyn}
+\APACinsertmetastar {%
+Dyn}%
+\begin{APACrefauthors}%
+Hilton, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {Dyn Analysis Summary Of Friday October 21 Attack.} {Dyn
+  analysis summary of friday october 21 attack.}
+\newblock
+\begin{APACrefURL}
+  [{2016-10-26}]\url{https://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Articles}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Bigtable: A Distributed Storage System for Structured Data Chang:2008:BDS:1365815.1365816 }{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Dynamo: Amazon\220s Highly Available Key-value Store DeCandia:2007:DAH:1323293.1294281 }{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{New Algorithms for Load Balancing in Peer-to-Peer Systemskarger2003new}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Stable distributed P2P protocols based on random peer sampling 6858091 }{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Enabling Robust and Efficient Distributed Computation in Dynamic Peer-to-Peer Networks 7354403 }{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{An efficient hypercube labeling schema for dynamic Peer-to-Peer networks Toce:2017:EHL:3050924.3051046 }{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{A Simpler Load-Balancing Algorithm for Range-Partitioned Data in Peer-to-Peer Systems Chawachat:2015:SLA:2885370.2885376 }{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.8}{Efficient Range Query Processing in Peer-to-Peer Systems 4527242 }{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.9}{Heterogeneity and Load Balance in Distributed Hash Tables 1497926 }{section.1}% 10
+\BOOKMARK [1][-]{section.2}{Discussion}{}% 11
+\BOOKMARK [2][-]{subsection.2.1}{Comparaison}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.2}{Critique pour l'IoT}{section.2}% 13
