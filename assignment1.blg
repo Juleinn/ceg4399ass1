@@ -14,46 +14,48 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: assignment1.bib.bib
 Warning--entry type for "Dyn" isn't style-file defined
 --line 9 of file assignment1.bib.bib
+Warning--entry type for "guardian" isn't style-file defined
+--line 25 of file assignment1.bib.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 2 entries,
+You've used 4 entries,
             6951 wiz_defined-function locations,
-            1281 strings with 11328 characters,
-and the built_in function-call counts, 4094 in all, are:
-= -- 549
-> -- 37
-< -- 141
-+ -- 152
-- -- 4
-* -- 218
-:= -- 615
-add.period$ -- 9
-call.type$ -- 2
-change.case$ -- 35
+            1292 strings with 11829 characters,
+and the built_in function-call counts, 8460 in all, are:
+= -- 1153
+> -- 71
+< -- 333
++ -- 343
+- -- 8
+* -- 462
+:= -- 1344
+add.period$ -- 19
+call.type$ -- 4
+change.case$ -- 70
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 121
-empty$ -- 173
-format.name$ -- 72
-if$ -- 827
+cite$ -- 8
+duplicate$ -- 212
+empty$ -- 330
+format.name$ -- 118
+if$ -- 1696
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 12
 missing$ -- 0
-newline$ -- 55
-num.names$ -- 16
-pop$ -- 92
+newline$ -- 105
+num.names$ -- 32
+pop$ -- 173
 preamble$ -- 1
-purify$ -- 8
+purify$ -- 16
 quote$ -- 0
-skip$ -- 339
+skip$ -- 680
 stack$ -- 0
-substring$ -- 166
-swap$ -- 61
-text.length$ -- 4
+substring$ -- 380
+swap$ -- 114
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 296
+type$ -- 592
 warning$ -- 0
-while$ -- 24
+while$ -- 42
 width$ -- 0
-write$ -- 66
-(There was 1 warning)
+write$ -- 127
+(There were 2 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.27)  28 SEP 2017 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.27)  28 SEP 2017 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,13 +775,10 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 ABD: EveryShipout initializing macros [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/usr/share/texlive/texmf-
-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-[2] (./assignment1.bbl [3]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./assignment1.bbl [3]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 33.
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Overfull \hbox (156.85709pt too wide) in paragraph at lines 14--36
@@ -795,21 +792,33 @@ Overfull \hbox (8.65701pt too wide) in paragraph at lines 48--61
 attack/ 
  []
 
+
+Overfull \hbox (88.91805pt too wide) in paragraph at lines 73--92
+\T1/lmtt/m/n/12 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.45
+66&rep=rep1&type=pdf 
+ []
+
+
+Overfull \hbox (132.15007pt too wide) in paragraph at lines 106--121
+\T1/lmtt/m/n/12 https://www.theguardian.com/technology/2016/oct/21/ddos-attack-
+dyn-internet-denial-service 
+ []
+
 ) AED endfloat: Processing end Figures and Tables [4
 
 ] (./assignment1.aux) ) 
 Here is how much of TeX's memory you used:
- 16756 strings out of 493029
- 310665 string characters out of 6136234
- 370808 words of memory out of 5000000
- 19954 multiletter control sequences out of 15000+600000
+ 16512 strings out of 493029
+ 307887 string characters out of 6136234
+ 370915 words of memory out of 5000000
+ 19713 multiletter control sequences out of 15000+600000
  12281 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,56p,1095b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,56p,939b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sha
 re/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on assignment1.pdf (4 pages, 76628 bytes).
+Output written on assignment1.pdf (4 pages, 80738 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream

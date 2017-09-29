@@ -55,7 +55,67 @@ Hilton, S.%
   analysis summary of friday october 21 attack.}
 \newblock
 \begin{APACrefURL}
-  [{2016-10-26}]\url{https://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/}
+  \url{https://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Specht%
+}{%
+Specht%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+DDoS}
+\APACinsertmetastar {%
+DDoS}%
+\begin{APACrefauthors}%
+Specht, S\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Distributed denial of service: taxonomies of attacks,
+  tools and countermeasures} {Distributed denial of service: taxonomies of
+  attacks, tools and countermeasures}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Workshop on Security in
+  Parallel and Distributed Systems, 2004} {Proceedings of the international
+  workshop on security in parallel and distributed systems, 2004}\ (\BPGS\
+  543--550).
+\newblock
+\begin{APACrefURL}
+  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.4566\&rep=rep1\&type=pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thielman%
+, Johnston%
+\BCBL {}\ \BBA {} Ackerman%
+}{%
+Thielman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+guardian}
+\APACinsertmetastar {%
+guardian}%
+\begin{APACrefauthors}%
+Thielman, S.%
+, Johnston, C.%
+\BCBL {}\ \BBA {} Ackerman, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {Major cyber attack disrupts internet service across Europe and
+  US.} {Major cyber attack disrupts internet service across europe and us.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.theguardian.com/technology/2016/oct/21/ddos-attack-dyn-internet-denial-service}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
