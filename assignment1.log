@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.27)  28 SEP 2017 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.27)  29 SEP 2017 00:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -796,35 +796,39 @@ attack/
  []
 
 
-Overfull \hbox (88.91805pt too wide) in paragraph at lines 111--130
+Overfull \hbox (88.91805pt too wide) in paragraph at lines 148--167
 \T1/lmtt/m/n/12 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.45
 66&rep=rep1&type=pdf 
  []
 
 
-Overfull \hbox (132.15007pt too wide) in paragraph at lines 144--159
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
+Overfull \hbox (132.15007pt too wide) in paragraph at lines 181--196
 \T1/lmtt/m/n/12 https://www.theguardian.com/technology/2016/oct/21/ddos-attack-
 dyn-internet-denial-service 
  []
 
-) AED endfloat: Processing end Figures and Tables [5
-
-] (./assignment1.aux) ) 
+) AED endfloat: Processing end Figures and Tables [6] (./assignment1.aux) ) 
 Here is how much of TeX's memory you used:
- 16517 strings out of 493029
- 307968 string characters out of 6136234
- 370980 words of memory out of 5000000
- 19718 multiletter control sequences out of 15000+600000
+ 16522 strings out of 493029
+ 308159 string characters out of 6136234
+ 372047 words of memory out of 5000000
+ 19723 multiletter control sequences out of 15000+600000
  12281 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,56p,1154b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sha
-re/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on assignment1.pdf (5 pages, 83099 bytes).
+ 62i,11n,56p,1008b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public
+/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmtt12.pfb>
+Output written on assignment1.pdf (6 pages, 84757 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -98,6 +98,43 @@ Hilton, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Mirkovic%
+, Robinson%
+\BCBL {}\ \BBA {} Reiher%
+}{%
+Mirkovic%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+Mirkovic:2003:AFD:986655.986658}
+\APACinsertmetastar {%
+Mirkovic:2003:AFD:986655.986658}%
+\begin{APACrefauthors}%
+Mirkovic, J.%
+, Robinson, M.%
+\BCBL {}\ \BBA {} Reiher, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Alliance Formation for DDoS Defense} {Alliance formation
+  for ddos defense}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2003 Workshop on New Security
+  Paradigms} {Proceedings of the 2003 workshop on new security paradigms}\
+  (\BPGS\ 11--18).
+\newblock
+\APACaddressPublisher{New York, NY, USA}{ACM}.
+\newblock
+\begin{APACrefURL}
+  \url{http://doi.acm.org.proxy.bib.uottawa.ca/10.1145/986655.986658}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/986655.986658} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Specht%
 }{%
 Specht%

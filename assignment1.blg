@@ -17,45 +17,45 @@ Warning--entry type for "Dyn" isn't style-file defined
 Warning--entry type for "guardian" isn't style-file defined
 --line 25 of file assignment1.bib.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 5 entries,
+You've used 6 entries,
             6951 wiz_defined-function locations,
-            1303 strings with 12152 characters,
-and the built_in function-call counts, 10787 in all, are:
-= -- 1456
-> -- 93
-< -- 432
-+ -- 436
-- -- 10
-* -- 606
-:= -- 1707
-add.period$ -- 25
-call.type$ -- 5
-change.case$ -- 88
+            1313 strings with 12459 characters,
+and the built_in function-call counts, 12861 in all, are:
+= -- 1731
+> -- 116
+< -- 498
++ -- 500
+- -- 12
+* -- 725
+:= -- 1990
+add.period$ -- 31
+call.type$ -- 6
+change.case$ -- 106
 chr.to.int$ -- 0
-cite$ -- 10
-duplicate$ -- 275
-empty$ -- 427
-format.name$ -- 150
-if$ -- 2163
+cite$ -- 12
+duplicate$ -- 338
+empty$ -- 524
+format.name$ -- 182
+if$ -- 2600
 int.to.chr$ -- 0
-int.to.str$ -- 15
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 137
-num.names$ -- 40
-pop$ -- 235
+newline$ -- 169
+num.names$ -- 48
+pop$ -- 297
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 24
 quote$ -- 0
-skip$ -- 835
+skip$ -- 986
 stack$ -- 0
-substring$ -- 483
-swap$ -- 158
-text.length$ -- 20
+substring$ -- 560
+swap$ -- 202
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 736
+type$ -- 880
 warning$ -- 0
-while$ -- 55
+while$ -- 68
 width$ -- 0
-write$ -- 168
+write$ -- 209
 (There were 2 warnings)
