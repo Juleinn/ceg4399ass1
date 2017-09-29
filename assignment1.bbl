@@ -1,6 +1,44 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Aljuhani%
+, Alharbi%
+\BCBL {}\ \BBA {} Liu%
+}{%
+Aljuhani%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+XFirewall}
+\APACinsertmetastar {%
+XFirewall}%
+\begin{APACrefauthors}%
+Aljuhani, A.%
+, Alharbi, T.%
+\BCBL {}\ \BBA {} Liu, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {XFirewall: A Dynamic and Additional Mitigation Against
+  DDoS Storm} {Xfirewall: A dynamic and additional mitigation against ddos
+  storm}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Conference on Compute
+  and Data Analysis} {Proceedings of the international conference on compute
+  and data analysis}\ (\BPGS\ 1--5).
+\newblock
+\APACaddressPublisher{New York, NY, USA}{ACM}.
+\newblock
+\begin{APACrefURL}
+  \url{http://doi.acm.org.proxy.bib.uottawa.ca/10.1145/3093241.3093252}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3093241.3093252} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Antonakakis%
 \ \protect \BOthers {.}}{%
 Antonakakis%
