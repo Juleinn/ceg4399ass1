@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: assignment1.aux
 The style file: apacite.bst
+I found no \citation commands---while reading file assignment1.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -12,50 +13,46 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: assignment1.bib.bib
-Warning--entry type for "Dyn" isn't style-file defined
---line 9 of file assignment1.bib.bib
-Warning--entry type for "guardian" isn't style-file defined
---line 25 of file assignment1.bib.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 6 entries,
+You've used 0 entries,
             6951 wiz_defined-function locations,
-            1313 strings with 12459 characters,
-and the built_in function-call counts, 12861 in all, are:
-= -- 1731
-> -- 116
-< -- 498
-+ -- 500
-- -- 12
-* -- 725
-:= -- 1990
-add.period$ -- 31
-call.type$ -- 6
-change.case$ -- 106
+            1268 strings with 10663 characters,
+and the built_in function-call counts, 43 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 1
+:= -- 32
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 338
-empty$ -- 524
-format.name$ -- 182
-if$ -- 2600
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 0
-int.to.str$ -- 18
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 169
-num.names$ -- 48
-pop$ -- 297
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 0
 quote$ -- 0
-skip$ -- 986
+skip$ -- 1
 stack$ -- 0
-substring$ -- 560
-swap$ -- 202
-text.length$ -- 27
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 880
+type$ -- 0
 warning$ -- 0
-while$ -- 68
+while$ -- 0
 width$ -- 0
-write$ -- 209
-(There were 2 warnings)
+write$ -- 2
+(There was 1 error message)
